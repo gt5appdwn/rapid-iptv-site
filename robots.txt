@@ -1,0 +1,9 @@
+# Robots.txt for Rapid Iptv
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://rapid-iptv.shop/sitemap.xml

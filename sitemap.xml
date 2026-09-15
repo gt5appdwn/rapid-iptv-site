@@ -58,4 +58,11 @@
         <changefreq>monthly</changefreq>
         <priority>0.4</priority>
     </url>
+
+    <url>
+        <loc>https://rapid-iptv.shop/setup-4k-iptv-firestick-android-tv-rapid-iptv.html</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
